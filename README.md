@@ -1,2 +1,2 @@
-## 190505 start githup
+## 190505 I start to use githup
 # test-repositry
